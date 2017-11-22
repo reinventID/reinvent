@@ -758,7 +758,7 @@ b i:last-child {
 .portfolio_item .portfolio_item_hover .item_info span {
     display: block;
     color: #fff;
-    font-size: 18px;
+    font-size: 22px;
     -webkit-transform: translateX(-100px);
     transform: translateX(-100px);
     -webkit-transition: all .2s ease-in-out .2s;
@@ -818,7 +818,6 @@ b i:last-child {
     padding-bottom: 0 !important;
     padding-top: 55px;
 }
-
 
 /* footer
 ==================================================*/
